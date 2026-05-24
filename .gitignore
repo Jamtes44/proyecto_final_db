@@ -26,3 +26,9 @@ yarn-error.log*
 
 # Environment files (local configs)
 /.env.*
+
+# Node
+node_modules
+
+# Firebase credentials
+env/firebase_credentials.json
